@@ -32,5 +32,9 @@
     "ge.settings.bindings.emote2": "Emote 2",
     "ge.settings.bindings.emote3": "Emote 3",
     "ge.settings.bindings.emote4": "Emote 4",
-    "ge.settings.debug.header": "No cambies los ajustes aquí a menos que sepas lo que estás haciendo"
+    "ge.settings.debug.header": "No cambies los ajustes aquí a menos que sepas lo que estás haciendo",
+    "ge.settings.bindings.actions.next_locked_perspective": "Siguiente perspectiva de cámara bloqueada",
+    "ge.settings.bindings.actions.platform_list": "Lista de plataformas",
+    "ge.settings.bindings.actions.open_ge_menu": "Abrir /{ge.menu}/",
+    "ge.settings.video.lockedCameraPerspective": "Perspectiva de cámara bloqueada"
 }
