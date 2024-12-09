@@ -16,6 +16,7 @@ Thank you to all translators on the discord that have helped with this project!
 &aLa Piedra (lapiedraomg)&r - Spanish (es_ES, es_MX)
 &aariiiiiq&r - Indonesian (id_ID)
 &aBeq4u&r - Russian, Ukranian (ru_RU, uk_UA)
+&a梦泽(MengZe2) - Japanese (ja_JP)
 
 &3&lOther
 -------------&r
