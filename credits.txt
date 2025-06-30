@@ -14,9 +14,9 @@ Thank you to all translators on the discord that have helped with this project!
 &a柠枺(NingMo)&r - Simplified Chinese (zh_CN)
 &aClumsius Pavillion (clumsius)&r - French (fr_FR)
 &aLa Piedra (lapiedraomg)&r - Spanish (es_ES, es_MX)
-&aariiiiiq&r - Indonesian (id_ID)
 &aBeq4u&r - Russian, Ukranian (ru_RU, uk_UA)
-&a梦泽(MengZe2) - Japanese (ja_JP)
+&a梦泽(MengZe2)&r - Japanese (ja_JP)
+&ZiwoxYT&r - Indonesian (id_ID)
 
 &3&lOther
 -------------&r
