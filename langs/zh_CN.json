@@ -41,4 +41,5 @@
     "ge.settings.java.emotechat.unmuted": "表情聊天已取消静音",
     "ge.settings.section.submit_warning": "§8§o请确保点击版块页面底部的“提交”按钮以保存更改！",
     "ge.settings.menu.sendSystemToasts": "显示/{ge.name}/状态通知"
+    "ge.settings.video.showFPS": "显示 FPS 计数器r"
 }
