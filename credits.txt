@@ -3,6 +3,8 @@
 
 &bLetsGoAway&r (me :D) - Creator and Developer of GeyserExtras
 &bonechris&r - Helped out with config stuff and is a Geyser developer, very helpful with debugging stuff, thanks :D
+&bClumsius Pavillion (clumsius)&r - Helped with retrieving the UUID for the One Vanilla Cape on Bedrock, as I do not own it, huge thanks :D
+&bTankObliterator (tankobliterator)&r - Helped with retrieving the UUID for the MC Experience cape on Bedrock, as also I do not own it, thank you so much :)
 
 &2&lTranslators
 -------------&r
@@ -16,7 +18,7 @@ Thank you to all translators on the discord that have helped with this project!
 &aLa Piedra (lapiedraomg)&r - Spanish (es_ES, es_MX)
 &aBeq4u&r - Russian, Ukranian (ru_RU, uk_UA)
 &a梦泽(MengZe2)&r - Japanese (ja_JP)
-&ZiwoxYT&r - Indonesian (id_ID)
+&aZiwoxYT&r - Indonesian (id_ID)
 
 &3&lOther
 -------------&r
